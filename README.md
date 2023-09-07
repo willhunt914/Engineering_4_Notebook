@@ -47,6 +47,8 @@ https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/af838a00-3
 ### Reflection
 
 
+I learned that if you want to code a countdown you  put  the desired range within parentheses, separated by a comma, with the final number indicating the step size for counting down or up.
+
 
 
 
