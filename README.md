@@ -29,6 +29,44 @@ Give me a link to your code. [Something like this](https://github.com/millerm22/
 
 What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
 
+
+
+### Assignment Description
+
+In this assignment, the goal was to print a countdown from 10 onto the serial monitor. 
+
+### Evidence 
+
+https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/af838a00-3ca4-4e31-a20d-81ef6e5d72cf
+
+
+### Code
+
+[Launchpad code](https://github.com/willhunt914/Engineering_4_Notebook/blob/main/raspberry-pi/launchpad1.py) 
+
+### Reflection
+
+
+I learned that if you want to code a countdown you  put  the desired range within parentheses, separated by a comma, with the final number indicating the step size for counting down or up.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 &nbsp;
 
 ## Onshape_Assignment_Template
