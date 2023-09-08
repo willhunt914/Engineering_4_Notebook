@@ -56,6 +56,27 @@ I learned that if you want to code a countdown you  put  the desired range withi
 
 
 
+### Assignment Description
+
+The goal of this assignment was to add on to the previous code an have an led blink red during the countdown and blink green during the liftoff 
+
+
+### Evidence 
+
+https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/0c899f61-b17b-4c13-8bcb-3787726edbf5
+
+
+
+### Wiring
+
+![image](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/b969c414-eb78-4470-a33c-474caac397ea)
+
+### Code
+Give me a link to your code. [Something like this](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py). Don't make me hunt through your folders, give me a nice link to click to take me there! Remember to **COMMENT YOUR CODE** if you want full credit. 
+
+### Reflection
+
+What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
 
 
 
