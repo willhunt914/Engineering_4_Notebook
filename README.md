@@ -77,10 +77,8 @@ https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/0c899f61-b
 
 ### Reflection
 
-The only thing that I had to figure out was how to set the red and green LEDs to the correct pins.
+The only thing that I had to figure out was how to set the red and green LEDs to the correct pins. I learned that you can hit Ctrl + Shift + P to open the pin map since the pico does not have labeled pins
 
-
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
 
 
 
