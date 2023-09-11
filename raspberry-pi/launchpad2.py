@@ -18,5 +18,5 @@ for i in range (10,0,-1): #starts from 10 and counts down to 0
     redled.value = False #turns red led off
     sleep(.5)
 print("liftoff")
-greenled.value = True
+greenled.value = True #turn green led on 
 sleep(1)
