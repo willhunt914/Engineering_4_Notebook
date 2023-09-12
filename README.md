@@ -5,7 +5,7 @@
 ## Table of Contents
 * [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
-* [LED_countdown](LED_countdown)
+* [LED_countdown](#LED_countdown)
 
 
 &nbsp;
@@ -78,10 +78,29 @@ https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/0c899f61-b
 
 ### Reflection
 
-The only thing that I had to figure out was how to set the red and green LEDs to the correct pins. I learned that you can hit Ctrl + Shift + P to open the pin map since the pico does not have labeled pins
+The only thing that I had to figure out was how to set the red and green LEDs to the correct pins. I learned that you can hit Ctrl + Shift + P to open the pin map since the pico does not have labeled pins. 
 
 
 
+## LED_Button
+
+The goal of this assignment was to add a button to start the countdown.
+
+### Evidence 
+
+https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/14392a1c-eeb7-4211-9470-7910a84a03cc
+
+### Wiring
+
+![launchpad button](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/93706350-1e56-4929-9789-5ebe6b948c03)
+
+### Code
+[Launchpad3](https://github.com/willhunt914/Engineering_4_Notebook/blob/main/raspberry-pi/launchpad3.py)
+
+### Reflection
+
+
+In the code for LEDs, I discovered that you need to set the direction as OUTPUT, while for buttons, it should be set as INPUT. I learned that  sleep() causes the code to pause for a desired amount of time. The digitalio.Pull.UP" line lets the button use its internal resistor.
 
 
 
