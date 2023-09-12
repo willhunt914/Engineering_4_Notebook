@@ -134,18 +134,8 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 
 &nbsp;
 
-## Media Test
-
-Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and gif you want!
 
 
 
 
 
-### Test Link
-[Hyperlink text](http://www.google.com)   
-### Test Image
-![Test Image](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/3858dc41-cd18-4a3c-b91f-a67ec1ccf79f)
-### Test GIF
-
-![jenna-ortega](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/4c4185fb-12f4-4922-a6d7-8e8a8a72e2f1)
