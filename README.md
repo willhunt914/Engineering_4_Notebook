@@ -50,7 +50,7 @@ https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/af838a00-3
 ### Reflection
 
 
-I learned that if you want to code a countdown you  put  the desired range within parentheses, separated by a comma, with the final number indicating the step size for counting down or up. You also havae to import time, board, digitalio, and sleep to make the code work.
+I learned that if you want to code a countdown you  put  the desired range within parentheses, separated by a comma, with the final number indicating the step size for counting down or up. You also have to import time, board, digitalio, and sleep to make the code work.
 
 
 
