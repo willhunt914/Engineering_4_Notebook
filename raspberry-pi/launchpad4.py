@@ -6,7 +6,7 @@ from time import sleep
 import pwmio
 from adafruit_motor import servo
 pwm_servo = pwmio.PWMOut(board.GP15, duty_cycle=2 ** 15, frequency=50)
-servo = servo.Servo(pwm_servo, min_pulse=500, max_pulse=2500)
+servo = servo.Servo(pwm_servo, min_pulse=500, max_pulse=2500) #sets up servo
 
 redled = digitalio.DigitalInOut(board.GP0) #sets pin for red led 
 redled.direction = digitalio.Direction.OUTPUT
@@ -19,7 +19,7 @@ Button = digitalio.DigitalInOut(board.GP16) #sets pin for Button
 Button.direction = digitalio.Direction.INPUT
 Button.pull = digitalio.Pull.UP #internally resists the button aparently 
 
-servo.angle = 0
+servo.angle = 0 #resets servo
 
 while True:
     if Button.value == False: 
@@ -27,10 +27,10 @@ while True:
             print(i)
             redled.value = True #turns red led on 
             sleep(0.25)
-            redled.value = False #turns red led off 
+            redled.value = False #turns red led off
             sleep(0.25)
         print("liftoff")
         greenled.value = True #turn green led on 
         sleep(1)
-        servo.angle = 180
+        servo.angle = 180 #moves servo to 180 degrees
         sleep(1)
