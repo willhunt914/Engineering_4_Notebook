@@ -107,7 +107,25 @@ In the code for LEDs, I discovered that you need to set the direction as OUTPUT,
 
 
 
+## LED_Servo
 
+The goal of this assignment was to make a servo sweep to 180 degrees at the end of the countdown.
+
+### Evidence 
+
+
+https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/8132c0a0-9ae0-4c5d-840c-dac946df110b
+
+
+### Wiring
+
+![image](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/8793d51f-b98d-401c-ae42-a05d62c7ce7a)
+
+
+### Code
+[Launchpad4](https://github.com/willhunt914/Engineering_4_Notebook/blob/main/raspberry-pi/launchpad4.py)
+
+### Reflection
 
 
 
