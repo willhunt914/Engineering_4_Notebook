@@ -128,7 +128,7 @@ https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/8132c0a0-9
 ### Reflection
 
 
-
+This was one of the easiest assignments for me. If you want the servo to work you have to download the adafruit_moter library. You should also have code before your "while true" that resets the servo angle to 0 every time you run the code.
 
 
 
