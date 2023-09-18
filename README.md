@@ -8,7 +8,7 @@
 * [LED_countdown](#LED_countdown)
 * [LED_Blink](#LED_Blink)
 * [LED_Button](#LED_Button)
-* [LED_Servo](#LED_Servp)
+* [LED_Servo](#LED_Servo)
 
 &nbsp;
 
