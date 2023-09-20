@@ -131,6 +131,38 @@ https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/8132c0a0-9
 This was one of the easiest assignments for me. If you want the servo to work you have to download the adafruit_moter library. You should also have code before your "while true" that resets the servo angle to 0 every time you run the code.
 
 
+## Crash_Avoidance1
+
+The goal of this assignment was to have an accelerometer display the x, y, and z values on the serial monitor.
+### Evidence 
+
+https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/5421a727-4bcc-4d8f-ba93-e6f4d3e3ab7b
+
+### Wiring
+
+![accelerometer](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/e0924352-b7ff-47cf-aeeb-231e19e2afbd)
+
+
+### Code
+[accel1code](https://github.com/willhunt914/Engineering_4_Notebook/blob/main/raspberry-pi/CrashAvoidance1.py)
+
+### Reflection
+
+To get this code to work you have to import the adafruit_mpu6050.mpy, adafruit_bus_device, and the  adafruit_register folders. The sleep(delay) gives the sensor a more accurate reading. Having a .1 second delay between readings is a  good time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 &nbsp;
 
