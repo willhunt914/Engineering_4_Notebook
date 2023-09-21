@@ -25,3 +25,4 @@ sleep(delay)
 while True:
     print(f"Accel: {round(imu.acceleration[0]-.6,1)}, {round(imu.acceleration[1]+.2,1)}, {round(imu.acceleration[2],1)}")  #print accelerometer values 
     sleep(delay) #sleep for set delay before next print
+
