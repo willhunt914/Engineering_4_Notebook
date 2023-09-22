@@ -160,9 +160,11 @@ The goal of his assignment was to make an LED Blink if the Pico was tilted more 
 ### Evidence 
 
 
+https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/694696e7-bb4a-4e17-a20b-097bbb35f933
+
+
 ### Wiring
 
-![accelerometerwbatterypack]()
 
 
 ### Code
