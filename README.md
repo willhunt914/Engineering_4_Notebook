@@ -9,6 +9,9 @@
 * [LED_Blink](#LED_Blink)
 * [LED_Button](#LED_Button)
 * [LED_Servo](#LED_Servo)
+* [Crash_Avoidance1](#Crash_Avoidance1)
+* [Crash_Avoidance2](#Crash_Avoidance2)
+
 
 &nbsp;
 
@@ -145,6 +148,25 @@ https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/5421a727-4
 
 ### Code
 [accel1code](https://github.com/willhunt914/Engineering_4_Notebook/blob/main/raspberry-pi/CrashAvoidance1.py)
+
+### Reflection
+
+To get this code to work you have to import the adafruit_mpu6050.mpy, adafruit_bus_device, and the  adafruit_register folders. The sleep(delay) gives the sensor a more accurate reading. Having a .1 second delay between readings is a  good time.
+
+
+## Crash_Avoidance2
+
+The goal of his assignment was to make an LED Blink if the Pico was tilted more than 90 degrees. We also had to add a battery pack to the board so that it could be powered without the computer.
+### Evidence 
+
+
+### Wiring
+
+![accelerometerwbatterypack]()
+
+
+### Code
+[accel2code](https://github.com/willhunt914/Engineering_4_Notebook/blob/main/raspberry-pi/CrashAvoidance1.py)
 
 ### Reflection
 
