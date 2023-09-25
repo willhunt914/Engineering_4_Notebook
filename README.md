@@ -168,13 +168,12 @@ https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/694696e7-b
 
 
 ### Code
-[accel2code](https://github.com/willhunt914/Engineering_4_Notebook/blob/main/raspberry-pi/CrashAvoidance1.py)
+[accel2code](https://github.com/willhunt914/Engineering_4_Notebook/blob/main/raspberry-pi/crash2.py)
 
 ### Reflection
 
-To get this code to work you have to import the adafruit_mpu6050.mpy, adafruit_bus_device, and the  adafruit_register folders. The sleep(delay) gives the sensor a more accurate reading. Having a .1 second delay between readings is a  good time.
 
-
+The main problem I had was trying to figure out how to get the battery to work. I learned that you have to charge your battery for it to work. I learned that the longer side of the LED goes to positive. 
 
 
 
