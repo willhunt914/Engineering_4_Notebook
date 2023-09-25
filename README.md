@@ -165,6 +165,7 @@ https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/694696e7-b
 
 ### Wiring
 
+![crash2](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/104b04c9-929c-4a0e-b3db-ffc2e515c893)
 
 
 ### Code
