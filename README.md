@@ -178,6 +178,25 @@ The main problem I had was trying to figure out how to get the battery to work. 
 
 
 
+## Crash_Avoidance3
+
+The goal of this assignment was to  screen that prints x, y, and z values rounded to the nearest 3 decimal places.
+
+### Evidence 
+
+
+
+### Wiring
+
+![crashwiring3]()
+
+
+### Code
+[acce31code]()
+
+### Reflection
+
+
 
 
 
