@@ -1,3 +1,4 @@
+#thanks to anton for the code all the credit goes to him
 # type: ignore
 ## I2C addresses found: '0x68' is MPU6050
 ## 0x3d is OLED Screen
