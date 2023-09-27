@@ -11,6 +11,7 @@
 * [LED_Servo](#LED_Servo)
 * [Crash_Avoidance1](#Crash_Avoidance1)
 * [Crash_Avoidance2](#Crash_Avoidance2)
+* [Crash_Avoidance3](#Crash_Avoidance3)
 
 
 &nbsp;
@@ -147,7 +148,7 @@ https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/5421a727-4
 
 
 ### Code
-[accel1code](https://github.com/willhunt914/Engineering_4_Notebook/blob/main/raspberry-pi/CrashAvoidance1.py)
+[crash avoidence 1 code](https://github.com/willhunt914/Engineering_4_Notebook/blob/main/raspberry-pi/CrashAvoidance1.py)
 
 ### Reflection
 
@@ -169,7 +170,7 @@ https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/694696e7-b
 
 
 ### Code
-[accel2code](https://github.com/willhunt914/Engineering_4_Notebook/blob/main/raspberry-pi/crash2.py)
+[crash avoidence 2 code](https://github.com/willhunt914/Engineering_4_Notebook/blob/main/raspberry-pi/crash2.py)
 
 ### Reflection
 
@@ -180,25 +181,27 @@ The main problem I had was trying to figure out how to get the battery to work. 
 
 ## Crash_Avoidance3
 
-The goal of this assignment was to  screen that prints x, y, and z values rounded to the nearest 3 decimal places.
+The goal of this assignment was to have an OLED that displays the x, y, and z values rounded to the nearest 3 decimal places.
 
 ### Evidence 
 
 
+https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/6c8088b4-d02c-4d67-95a8-7a546e6caee4
+
 
 ### Wiring
+![crash3](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/c36fbbb0-88d5-4fb2-a073-72e0f22d8ecb)
 
-![crashwiring3]()
 
 
 ### Code
-[acce31code]()
+[crash avoidence 3 code](https://github.com/willhunt914/Engineering_4_Notebook/blob/main/raspberry-pi/crash3.py)
 
 ### Reflection
 
 
 
-
+Again, I had more problems with the wiring. I often flipped the SCL and SDA pins which caused my code to not work. I also didnt read the assignment and forgot to download the libraries so after I downloaded them it worked first try. 
 
 
 
