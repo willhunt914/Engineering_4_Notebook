@@ -9,6 +9,9 @@
 * [LED_Blink](#LED_Blink)
 * [LED_Button](#LED_Button)
 * [LED_Servo](#LED_Servo)
+* [Crash_Avoidance1](#Crash_Avoidance1)
+* [Crash_Avoidance2](#Crash_Avoidance2)
+
 
 &nbsp;
 
@@ -151,7 +154,47 @@ https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/5421a727-4
 To get this code to work you have to import the adafruit_mpu6050.mpy, adafruit_bus_device, and the  adafruit_register folders. The sleep(delay) gives the sensor a more accurate reading. Having a .1 second delay between readings is a  good time.
 
 
+## Crash_Avoidance2
 
+The goal of his assignment was to make an LED Blink if the Pico was tilted more than 90 degrees. We also had to add a battery pack to the board so that it could be powered without the computer.
+### Evidence 
+
+
+https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/694696e7-bb4a-4e17-a20b-097bbb35f933
+
+
+### Wiring
+
+![crash2](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/104b04c9-929c-4a0e-b3db-ffc2e515c893)
+
+
+### Code
+[accel2code](https://github.com/willhunt914/Engineering_4_Notebook/blob/main/raspberry-pi/crash2.py)
+
+### Reflection
+
+
+The main problem I had was trying to figure out how to get the battery to work. I learned that you have to charge your battery for it to work. I learned that the longer side of the LED goes to positive. 
+
+
+
+## Crash_Avoidance3
+
+The goal of this assignment was to  screen that prints x, y, and z values rounded to the nearest 3 decimal places.
+
+### Evidence 
+
+
+
+### Wiring
+
+![crashwiring3]()
+
+
+### Code
+[acce31code]()
+
+### Reflection
 
 
 
