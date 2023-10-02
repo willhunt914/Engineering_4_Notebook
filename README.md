@@ -204,6 +204,30 @@ https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/6c8088b4-d
 Again, I had more problems with the wiring. I often flipped the SCL and SDA pins which caused my code to not work. I also didnt read the assignment and forgot to download the libraries so after I downloaded them it worked first try. 
 
 
+&nbsp;
+
+## Beam_Designpt1
+
+The goal of this assignment is to design a beam in onshsape to hold as much weight as possible. For the beam to fail it must either break or bend more than 35mm.
+
+### Part Link 
+
+[Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
+
+### Part Image
+
+Take a nice screenshot of your Onshape document. 
+
+### Reflection
+
+
+
+The main problem that we ran in to was overhang 
+
+![Screenshot 2023-10-02 103925](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/be683c92-1139-4a28-bc43-c720530f2ead)
+
+In our first design showed aboved, the main problem that we ran in to was overhang. To fix this, we had to add support under the overhang that supported them. 
+&nbsp;
 
 
 
