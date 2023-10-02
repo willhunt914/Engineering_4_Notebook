@@ -220,10 +220,6 @@ Take a nice screenshot of your Onshape document.
 
 ### Reflection
 
-
-
-The main problem that we ran in to was overhang 
-
 ![Screenshot 2023-10-02 103925](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/be683c92-1139-4a28-bc43-c720530f2ead)
 
 In our first design showed aboved, the main problem that we ran in to was overhang. To fix this, we had to add support under the overhang that supported them. 
