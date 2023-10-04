@@ -12,6 +12,7 @@
 * [Crash_Avoidance1](#Crash_Avoidance1)
 * [Crash_Avoidance2](#Crash_Avoidance2)
 * [Crash_Avoidance3](#Crash_Avoidance3)
+* [Beam_Designpt1](#Beam_Designpt1)
 
 
 &nbsp;
@@ -222,8 +223,17 @@ Take a nice screenshot of your Onshape document.
 
 ![Screenshot 2023-10-02 103925](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/be683c92-1139-4a28-bc43-c720530f2ead)
 
-In our first design showed aboved, the main problem that we ran in to was overhang. To fix this, we had to add support under the overhang that supported them. 
+In our first design shown above, the main problem we ran into was overhang. Overhang is when the printer does not have any surface to print onto. To fix this, we had to add supports at 45 degrees under the overhang shown below:
+
+![overhang fix](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/918b776b-4988-4ba2-9ccc-fd73b1ada283)
+
+
+
 &nbsp;
+
+
+
+
 
 
 
