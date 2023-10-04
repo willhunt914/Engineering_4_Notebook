@@ -227,6 +227,7 @@ In our first design shown above, the main problem we ran into was overhang. Over
 
 ![overhang fix](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/918b776b-4988-4ba2-9ccc-fd73b1ada283)
 
+Additionally, the project was breaching the weight limit so we added a lot of fillets to reconcile that.
 
 
 &nbsp;
@@ -241,6 +242,7 @@ In our first design shown above, the main problem we ran into was overhang. Over
 
 
 &nbsp;
+
 
 ## Onshape_Assignment_Template
 
