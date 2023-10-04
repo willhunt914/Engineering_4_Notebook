@@ -209,11 +209,11 @@ Again, I had more problems with the wiring. I often flipped the SCL and SDA pins
 
 ## Beam_Designpt1
 
-The goal of this assignment is to design a beam in onshsape to hold as much weight as possible. For the beam to fail it must either break or bend more than 35mm.
+The goal of this assignment is to design a beam to hold as much weight as possible. For the beam to fail it must either break or bend more than 35mm.
 
 ### Part Link 
 
-[Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
+[link to Onshape document](https://cvilleschools.onshape.com/documents/36bd5e50c7a6146a0cebf6d6/w/d8e6fba93b7971cd2c68e99e/e/df01e9a616645a5b4969e98e?renderMode=0&uiState=651d665b66bcfe34cbaa237b). 
 
 ### Part Image
 
