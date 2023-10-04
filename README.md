@@ -217,7 +217,7 @@ The goal of this assignment is to design a beam to hold as much weight as possib
 
 ### Part Image
 
-Take a nice screenshot of your Onshape document. 
+![Screenshot 2023-10-04 094221](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/ce85f07b-a939-41c9-9d8b-80b9c6b16c88)
 
 ### Reflection
 
