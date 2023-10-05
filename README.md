@@ -240,10 +240,12 @@ The goal of this assignment is to run a simulation in Onshape to find the weak p
 
 ### Part Image
 
+![We live in a simulation](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/9419c4c3-0af8-4bd8-9a25-76607ef6002a)
+
 
 ### Reflection
 
-\
+The side closer to the holder faces the most stress and the side away from it faces almost none. To fix this, we will remove some of the weight on the other side so that we can add more structure to the weaker side.
 
 
 
