@@ -230,6 +230,38 @@ In our first design shown above, the main problem we ran into was overhang. Over
 Additionally, the project was breaching the weight limit so we added a lot of fillets to reconcile that.
 
 
+## Beam_Simulation
+
+The goal of this assignment is to run a simulation in Onshape to find the weak points of the beam
+
+### Part Link 
+
+[link to Onshape document](https://cvilleschools.onshape.com/documents/36bd5e50c7a6146a0cebf6d6/w/d8e6fba93b7971cd2c68e99e/e/df01e9a616645a5b4969e98e?renderMode=0&uiState=651d665b66bcfe34cbaa237b). 
+
+### Part Image
+
+
+### Reflection
+
+\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 &nbsp;
 
 
