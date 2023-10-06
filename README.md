@@ -239,10 +239,13 @@ The goal of this assignment is to run a simulation in Onshape to find the weak p
 [link to Onshape document](https://cvilleschools.onshape.com/documents/36bd5e50c7a6146a0cebf6d6/w/d8e6fba93b7971cd2c68e99e/e/df01e9a616645a5b4969e98e?renderMode=0&uiState=651d665b66bcfe34cbaa237b). 
 
 ### Part Image
+![unnamed](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/ec073d91-6b3a-4ec3-a803-6408e5517261)
+
+Displacement Plot
 
 ![We live in a simulation](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/9419c4c3-0af8-4bd8-9a25-76607ef6002a)
 
-
+Stress Plot 
 ### Reflection
 
 The side closer to the holder faces the most stress and the side away from it faces almost none. To fix this, we will remove some of the weight on the other side so that we can add more structure to the weaker side.
