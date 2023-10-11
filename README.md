@@ -275,7 +275,7 @@ We also thickened the part shown below that was thin and weak in our first desig
 
 ![Screenshot 2023-10-11 092815](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/31c1bad6-2b97-4eaa-bac3-eec7c41a23f0)
 
-To keep the weight under 13 grams we added more fillets to the stronger side of the beam. Before the changes, the maximum displacement was 65.51 and the max stress was 10,025 psi. 
+To keep the weight under 13 grams we added more fillets to the stronger side of the beam. Before the changes, the maximum displacement was 65.51 and the max stress was 10,025 psi. After the changes the displacement got slightly worse to 71.59 but the max stress it could take went up to 16,340.
 
 
 
