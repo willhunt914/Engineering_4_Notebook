@@ -252,6 +252,32 @@ The side closer to the holder faces the most stress and the side away from it fa
 
 
 
+## Beam_Fixing
+
+The goal of this assignment was to use the information from the simulation to design a better beam.
+
+### Part Link 
+
+[link to Onshape document](https://cvilleschools.onshape.com/documents/36bd5e50c7a6146a0cebf6d6/w/d8e6fba93b7971cd2c68e99e/e/df01e9a616645a5b4969e98e?renderMode=0&uiState=651d665b66bcfe34cbaa237b). 
+
+### Part Image
+![FIXEDBEAM](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/8381824b-0b3a-4ff1-8303-b71e8b79694c)
+
+
+Stress Plot 
+### Reflection
+
+To fix the problems we had we added a piece that would support the beam underneath the holder. 
+
+![fixything](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/eb4a3234-b0af-4ad6-af5d-e8657807711e)
+
+We also thickened the part shown below that was thin and weak in our first design. 
+
+![Screenshot 2023-10-11 092815](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/31c1bad6-2b97-4eaa-bac3-eec7c41a23f0)
+
+To keep the weight under 13 grams we added more fillets to the stronger side of the beam. Before the changes, the maximum displacement was 65.51 and the max stress was 10,025 psi. 
+
+
 
 
 
