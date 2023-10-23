@@ -11,9 +11,14 @@
 * [LED_Servo](#LED_Servo)
 * [Crash_Avoidance1](#Crash_Avoidance1)
 * [Crash_Avoidance2](#Crash_Avoidance2)
-
-
+* [Crash_Avoidance3](#Crash_Avoidance3)
+* [Beam_Designpt1](#Beam_Designpt1)
+* [Beam_Simulation](#Beam_Simulation)
+* [Beam_Fixing](#Beam_Fixing)
 &nbsp;
+
+
+Credit for most of these assignments goes to Afton in case I forgot to write it. 
 
 ## Raspberry_Pi_Assignment_Template
 
@@ -147,7 +152,7 @@ https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/5421a727-4
 
 
 ### Code
-[accel1code](https://github.com/willhunt914/Engineering_4_Notebook/blob/main/raspberry-pi/CrashAvoidance1.py)
+[crash avoidence 1 code](https://github.com/willhunt914/Engineering_4_Notebook/blob/main/raspberry-pi/CrashAvoidance1.py)
 
 ### Reflection
 
@@ -169,7 +174,7 @@ https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/694696e7-b
 
 
 ### Code
-[accel2code](https://github.com/willhunt914/Engineering_4_Notebook/blob/main/raspberry-pi/crash2.py)
+[crash avoidence 2 code](https://github.com/willhunt914/Engineering_4_Notebook/blob/main/raspberry-pi/crash2.py)
 
 ### Reflection
 
@@ -180,21 +185,105 @@ The main problem I had was trying to figure out how to get the battery to work. 
 
 ## Crash_Avoidance3
 
-The goal of this assignment was to  screen that prints x, y, and z values rounded to the nearest 3 decimal places.
+The goal of this assignment was to have an OLED that displays the x, y, and z values rounded to the nearest 3 decimal places.
 
 ### Evidence 
 
 
+https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/6c8088b4-d02c-4d67-95a8-7a546e6caee4
+
 
 ### Wiring
+![crash3](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/c36fbbb0-88d5-4fb2-a073-72e0f22d8ecb)
 
-![crashwiring3]()
 
 
 ### Code
-[acce31code]()
+[crash avoidence 3 code](https://github.com/willhunt914/Engineering_4_Notebook/blob/main/raspberry-pi/crash3.py)
 
 ### Reflection
+
+
+
+Again, I had more problems with the wiring. I often flipped the SCL and SDA pins which caused my code to not work. I also didnt read the assignment and forgot to download the libraries so after I downloaded them it worked first try. 
+
+
+&nbsp;
+
+## Beam_Designpt1
+
+The goal of this assignment is to design a beam to hold as much weight as possible. For the beam to fail it must either break or bend more than 35mm.
+
+### Part Link 
+
+[link to Onshape document](https://cvilleschools.onshape.com/documents/36bd5e50c7a6146a0cebf6d6/w/d8e6fba93b7971cd2c68e99e/e/df01e9a616645a5b4969e98e?renderMode=0&uiState=651d665b66bcfe34cbaa237b). 
+
+### Part Image
+
+![Screenshot 2023-10-04 094221](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/ce85f07b-a939-41c9-9d8b-80b9c6b16c88)
+
+### Reflection
+
+![Screenshot 2023-10-02 103925](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/be683c92-1139-4a28-bc43-c720530f2ead)
+
+In our first design shown above, the main problem we ran into was overhang. Overhang is when the printer does not have any surface to print onto. To fix this, we had to add supports at 45 degrees under the overhang shown below:
+
+![overhang fix](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/918b776b-4988-4ba2-9ccc-fd73b1ada283)
+
+Additionally, the project was breaching the weight limit so we added a lot of fillets to reconcile that.
+
+
+## Beam_Simulation
+
+The goal of this assignment is to run a simulation in Onshape to find the weak points of the beam
+
+### Part Link 
+
+[link to Onshape document](https://cvilleschools.onshape.com/documents/36bd5e50c7a6146a0cebf6d6/w/d8e6fba93b7971cd2c68e99e/e/df01e9a616645a5b4969e98e?renderMode=0&uiState=651d665b66bcfe34cbaa237b). 
+
+### Part Image
+![unnamed](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/ec073d91-6b3a-4ec3-a803-6408e5517261)
+
+Displacement Plot
+
+![We live in a simulation](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/9419c4c3-0af8-4bd8-9a25-76607ef6002a)
+
+Stress Plot 
+### Reflection
+
+The side closer to the holder faces the most stress and the side away from it faces almost none. To fix this, we will remove some of the weight on the other side so that we can add more structure to the weaker side.
+
+
+
+## Beam_Fixing
+
+The goal of this assignment was to use the information from the simulation to design a better beam.
+
+### Part Link 
+
+[link to Onshape document](https://cvilleschools.onshape.com/documents/36bd5e50c7a6146a0cebf6d6/w/d8e6fba93b7971cd2c68e99e/e/df01e9a616645a5b4969e98e?renderMode=0&uiState=651d665b66bcfe34cbaa237b). 
+
+### Part Image
+![FIXEDBEAM](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/8381824b-0b3a-4ff1-8303-b71e8b79694c)
+
+
+Stress Plot 
+### Reflection
+
+To fix the problems we had we added a piece that would support the beam underneath the holder. 
+
+![fixything](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/eb4a3234-b0af-4ad6-af5d-e8657807711e)
+
+We also thickened the part shown below that was thin and weak in our first design. 
+
+![Screenshot 2023-10-11 092815](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/31c1bad6-2b97-4eaa-bac3-eec7c41a23f0)
+
+To keep the weight under 13 grams we added more fillets to the stronger side of the beam. Before the changes, the maximum displacement was 65.51 and the max stress was 10,025 psi. After the changes the displacement got slightly worse to 71.59 but the max stress it could take went up to 16,340.
+
+
+
+
+
 
 
 
@@ -208,6 +297,18 @@ The goal of this assignment was to  screen that prints x, y, and z values rounde
 
 
 &nbsp;
+
+
+
+
+
+
+
+
+
+
+&nbsp;
+
 
 ## Onshape_Assignment_Template
 
