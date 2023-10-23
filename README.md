@@ -13,9 +13,12 @@
 * [Crash_Avoidance2](#Crash_Avoidance2)
 * [Crash_Avoidance3](#Crash_Avoidance3)
 * [Beam_Designpt1](#Beam_Designpt1)
-
-
+* [Beam_Simulation](#Beam_Simulation)
+* [Beam_Fixing](#Beam_Fixing)
 &nbsp;
+
+
+Credit for most of these assignments goes to Afton in case I forgot to write it. 
 
 ## Raspberry_Pi_Assignment_Template
 
