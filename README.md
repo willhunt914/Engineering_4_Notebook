@@ -12,6 +12,7 @@
 * [Crash_Avoidance1](#Crash_Avoidance1)
 * [Crash_Avoidance2](#Crash_Avoidance2)
 * [Crash_Avoidance3](#Crash_Avoidance3)
+* [Area_Finder](#Area_Finder)
 * [Beam_Designpt1](#Beam_Designpt1)
 * [Beam_Simulation](#Beam_Simulation)
 * [Beam_Fixing](#Beam_Fixing)
@@ -207,7 +208,7 @@ https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/6c8088b4-d
 
 Again, I had more problems with the wiring. I often flipped the SCL and SDA pins which caused my code to not work. I also didnt read the assignment and forgot to download the libraries so after I downloaded them it worked first try. 
 
-## Area Finder 
+## Area_Finder 
 
 The goal of this assignment is to have the code ask for three X and Y coordinates and for it to pop out the area. 
 
@@ -217,7 +218,7 @@ The goal of this assignment is to have the code ask for three X and Y coordinate
 
 ### Reflection
 
-The main trouble I had was figuring out how to do functions. With a little help from afton 
+The main trouble I had was figuring out how to do functions. With a little help from Afton, I learned that the try-except command is used to make sure that the user inputs the coordinates in the right way. This code also runs in an infinite loop so you don't have to run it every single time. 
 
 
 ## Beam_Designpt1
