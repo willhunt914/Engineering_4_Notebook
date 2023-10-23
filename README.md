@@ -207,8 +207,18 @@ https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/6c8088b4-d
 
 Again, I had more problems with the wiring. I often flipped the SCL and SDA pins which caused my code to not work. I also didnt read the assignment and forgot to download the libraries so after I downloaded them it worked first try. 
 
+## Area Finder 
 
-&nbsp;
+The goal of this assignment is to have the code ask for three X and Y coordinates and for it to pop out the area. 
+
+### Code 
+
+[AreaCode](https://github.com/willhunt914/Engineering_4_Notebook/blob/main/raspberry-pi/area.py)
+
+### Reflection
+
+The main trouble I had was figuring out how to do functions. With a little help from afton 
+
 
 ## Beam_Designpt1
 
