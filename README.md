@@ -13,6 +13,7 @@
 * [Crash_Avoidance2](#Crash_Avoidance2)
 * [Crash_Avoidance3](#Crash_Avoidance3)
 * [Area_Finder](#Area_Finder)
+* [Area_Finder2](#Area_Finder2)
 * [Beam_Designpt1](#Beam_Designpt1)
 * [Beam_Simulation](#Beam_Simulation)
 * [Beam_Fixing](#Beam_Fixing)
@@ -219,6 +220,19 @@ The goal of this assignment is to have the code ask for three X and Y coordinate
 ### Reflection
 
 The main trouble I had was figuring out how to do functions. With a little help from Afton, I learned that the try-except command is used to make sure that the user inputs the coordinates in the right way. This code also runs in an infinite loop so you don't have to run it every single time. 
+
+
+## Area_Finder2 
+
+ the goal of this assignment is to have an onboard OLED screen that plots each triangle on a graph relative to the base location.
+
+### Code 
+
+[Area2Code]()
+
+### Reflection
+
+Again, I had trouble with wiring up the OLED screen 
 
 
 ## Beam_Designpt1
