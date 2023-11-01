@@ -12,6 +12,8 @@
 * [Crash_Avoidance1](#Crash_Avoidance1)
 * [Crash_Avoidance2](#Crash_Avoidance2)
 * [Crash_Avoidance3](#Crash_Avoidance3)
+* [Area_Finder](#Area_Finder)
+* [Area_Finder2](#Area_Finder2)
 * [Beam_Designpt1](#Beam_Designpt1)
 * [Beam_Simulation](#Beam_Simulation)
 * [Beam_Fixing](#Beam_Fixing)
@@ -207,8 +209,39 @@ https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/6c8088b4-d
 
 Again, I had more problems with the wiring. I often flipped the SCL and SDA pins which caused my code to not work. I also didnt read the assignment and forgot to download the libraries so after I downloaded them it worked first try. 
 
+## Area_Finder 
 
-&nbsp;
+The goal of this assignment is to have the code ask for three X and Y coordinates and for it to pop out the area. 
+
+### Evidence 
+
+### Code 
+
+[AreaCode](https://github.com/willhunt914/Engineering_4_Notebook/blob/main/raspberry-pi/area.py)
+
+### Reflection
+
+The main trouble I had was figuring out how to do functions. With a little help from Afton, I learned that the try-except command is used to make sure that the user inputs the coordinates in the right way. This code also runs in an infinite loop so you don't have to run it every single time. 
+
+
+## Area_Finder2 
+
+ the goal of this assignment is to have an onboard OLED screen that plots each triangle on a graph relative to the base location.
+
+### Evidence 
+
+
+https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/9856d122-5dbd-4f9d-9c5d-68cf3ba4f9c1
+
+
+### Code 
+
+[Area2Code]()
+
+### Reflection
+
+Again, I had trouble with wiring up the OLED screen 
+
 
 ## Beam_Designpt1
 
