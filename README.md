@@ -213,6 +213,8 @@ Again, I had more problems with the wiring. I often flipped the SCL and SDA pins
 
 The goal of this assignment is to have the code ask for three X and Y coordinates and for it to pop out the area. 
 
+### Evidence 
+
 ### Code 
 
 [AreaCode](https://github.com/willhunt914/Engineering_4_Notebook/blob/main/raspberry-pi/area.py)
@@ -225,6 +227,12 @@ The main trouble I had was figuring out how to do functions. With a little help 
 ## Area_Finder2 
 
  the goal of this assignment is to have an onboard OLED screen that plots each triangle on a graph relative to the base location.
+
+### Evidence 
+
+
+https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/9856d122-5dbd-4f9d-9c5d-68cf3ba4f9c1
+
 
 ### Code 
 
