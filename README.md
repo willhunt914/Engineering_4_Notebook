@@ -215,6 +215,10 @@ The goal of this assignment is to have the code ask for three X and Y coordinate
 
 ### Evidence 
 
+
+https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/ddbc047a-5202-4af1-b019-cfaa75cc0842
+
+
 ### Code 
 
 [AreaCode](https://github.com/willhunt914/Engineering_4_Notebook/blob/main/raspberry-pi/area.py)
@@ -230,17 +234,20 @@ The main trouble I had was figuring out how to do functions. With a little help 
 
 ### Evidence 
 
-
 https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/9856d122-5dbd-4f9d-9c5d-68cf3ba4f9c1
 
 
 ### Code 
 
-[Area2Code]()
+[Area2Code](https://github.com/willhunt914/Engineering_4_Notebook/blob/main/raspberry-pi/area2.py)
+
+### Wiring
+
+![area 2 wiring](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/d16c93d3-9b37-4f14-a3ed-f078cf30a664)
 
 ### Reflection
 
-Again, I had trouble with wiring up the OLED screen 
+Again, I had trouble with wiring up the OLED screen. I figured out that the Clk wires up to Scl and that SDA wires up to date. My code was not working because It was in  a file named Code.py and not the actual folder so I learned to not do that. 
 
 
 ## Beam_Designpt1
