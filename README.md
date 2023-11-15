@@ -14,6 +14,8 @@
 * [Crash_Avoidance3](#Crash_Avoidance3)
 * [Area_Finder](#Area_Finder)
 * [Area_Finder2](#Area_Finder2)
+* [Morsecode1](#Morsecode1)
+* [Morsecode2](#Morsecode2)
 * [Beam_Designpt1](#Beam_Designpt1)
 * [Beam_Simulation](#Beam_Simulation)
 * [Beam_Fixing](#Beam_Fixing)
@@ -248,6 +250,48 @@ https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/9856d122-5
 ### Reflection
 
 Again, I had trouble with wiring up the OLED screen. I figured out that the Clk wires up to Scl and that SDA wires up to date. My code was not working because It was in  a file named Code.py and not the actual folder so I learned to not do that. 
+
+
+## Morsecode1
+
+ The goal of this assignment was to have code that translates words into morris code 
+
+### Evidence 
+
+
+https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/d5b514b1-e7c4-4c2c-99f6-b486ab7921aa
+
+
+### Code 
+
+[morse1Code](https://github.com/willhunt914/Engineering_4_Notebook/blob/main/raspberry-pi/morsecode.py)
+
+### Reflection
+
+I learned that the .upper() line lets the code work in upper and lowercase. The code uses the try-except line to make sure that special characters that will break the code don't work. For each letter the code looks in the MORSE_CODE library and translates it to Morse code. 
+
+
+## Morsecode2
+
+The goal was to have an LED blink the message that you type in Morse code. 
+
+### Evidence 
+
+https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/3e1ee0ff-3bbd-44ba-9ba1-8ea0e2a94fca
+
+### Wiring
+
+![mnorsecode2](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/eeda6263-f1c0-4fb0-8d20-bb67d2306ddb)
+
+### Code 
+
+[morse2code](https://github.com/willhunt914/Engineering_4_Notebook/blob/main/raspberry-pi/morsecode2.py)
+
+### Reflection
+
+I had trouble putting the LED in the right direction. To fix this afton showrd me that the longer side connects to the PICO and the shorter side goes into the negative side on the breadboard. I learned that the code uses certain delays for each charecter.
+
+
 
 
 ## Beam_Designpt1
