@@ -16,6 +16,8 @@
 * [Area_Finder2](#Area_Finder2)
 * [Morsecode1](#Morsecode1)
 * [Morsecode2](#Morsecode2)
+* [DataSaver1](#DataSaver1)
+* [DataSaver2](#DataSaver2)
 * [Beam_Designpt1](#Beam_Designpt1)
 * [Beam_Simulation](#Beam_Simulation)
 * [Beam_Fixing](#Beam_Fixing)
@@ -290,6 +292,58 @@ https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/3e1ee0ff-3
 ### Reflection
 
 I had trouble putting the LED in the right direction. To fix this afton showrd me that the longer side connects to the PICO and the shorter side goes into the negative side on the breadboard. I learned that the code uses certain delays for each charecter.
+
+## DataSaver1
+
+The goal of this assignment was to have data saved on the PICO when it is unplugged and then put the data in a file when it is plugged in. 
+
+### Evidence 
+
+
+https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/ab08535c-0301-46c7-a7e6-e8f99e3fa65e
+
+[data.csv](https://github.com/willhunt914/Engineering_4_Notebook/files/13366272/data.csv)
+
+
+### Wiring
+
+![datasaver](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/4d444e3e-a403-4f04-b008-f0cb87ab0d42)
+
+### Code
+
+[data1code](https://github.com/willhunt914/Engineering_4_Notebook/blob/main/raspberry-pi/data1.py)
+
+### Reflection
+
+The main problem I had was not reading the assignment all the way. I didn't make a boot.py so my code was not working. The wiring of my accelerometer was also off by one row so I had to fix that. 
+
+## DataSaver2
+
+### Evidence 
+
+### Wiring
+
+### Code
+
+### Reflection
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
