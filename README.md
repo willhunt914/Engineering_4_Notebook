@@ -291,7 +291,7 @@ https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/3e1ee0ff-3
 
 ### Reflection
 
-I had trouble putting the LED in the right direction. To fix this afton showrd me that the longer side connects to the PICO and the shorter side goes into the negative side on the breadboard. I learned that the code uses certain delays for each charecter.
+I had trouble putting the LED in the right direction. To fix this Afton showed me that the longer side connects to the PICO and the shorter side goes into the negative side on the breadboard. I learned that the code uses certain delays for each character.
 
 ## DataSaver1
 
@@ -323,9 +323,14 @@ The goal of this assignment was to graph our data
 
 ### Evidence 
 
+![acceleration values](https://github.com/willhunt914/Engineering_4_Notebook/assets/71402974/4182852e-7a2f-4941-961c-929f80bea855)
+
+
+[Link to spreadsheet](https://docs.google.com/spreadsheets/d/1bCEzuUYCmRRxUKbU-nJmMzW54dc3cUvWYF7U1CbMroA/edit#gid=0)
+
 ### Reflection
 
-
+This assignment was really easy since it showed us how to do everything. The only problem was that I didn't read it and struggled with how to add an X-axis. I learned you click the window and select the x-axis data you want. 
 
 
 
