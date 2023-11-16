@@ -319,11 +319,9 @@ The main problem I had was not reading the assignment all the way. I didn't make
 
 ## DataSaver2
 
+The goal of this assignment was to graph our data 
+
 ### Evidence 
-
-### Wiring
-
-### Code
 
 ### Reflection
 
