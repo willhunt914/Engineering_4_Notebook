@@ -196,7 +196,7 @@ The main problem I had was trying to figure out how to get the battery to work. 
 
 
 ## Crash_Avoidance3
-I copied my entire coding assignment from [Afton](https://github.com/Avanhoo/Engineering_4_Notebook)  Here is a link to their notebook.
+I copied my entire coding assignment from [Anton](https://github.com/aweder05/Engineering_4_Notebook)  Here is a link to their notebook.
 
 The goal of this assignment was to have an OLED that displays the x, y, and z values rounded to the nearest 3 decimal places.
 
