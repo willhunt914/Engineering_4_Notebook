@@ -51,7 +51,8 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 ## LED_countdown
 
 In this assignment, the goal was to print a countdown from 10 onto the serial monitor. 
-Credit for this code goes to [Afton](https://github.com/Avanhoo/Engineering_4_Notebook) 
+I copied my entire coding assignment from [Afton](https://github.com/Avanhoo/Engineering_4_Notebook)  Here is a link to their notebook.
+
 
 ### Evidence 
 
@@ -77,7 +78,7 @@ I learned that if you want to code a countdown you  put  the desired range withi
 ### LED_Blink
 
 The goal of this assignment was to add on to the previous code and have an LED blink red during the countdown and blink green during the liftoff 
-Credit for this code goes to [Afton](https://github.com/Avanhoo/Engineering_4_Notebook) 
+I copied my entire coding assignment from [Afton](https://github.com/Avanhoo/Engineering_4_Notebook)  Here is a link to their notebook.
 
 
 ### Evidence 
@@ -100,7 +101,7 @@ The only thing that I had to figure out was how to set the red and green LEDs to
 
 
 ## LED_Button
-Credit for this code goes to [Afton](https://github.com/Avanhoo/Engineering_4_Notebook) 
+I copied my entire coding assignment from [Afton](https://github.com/Avanhoo/Engineering_4_Notebook)  Here is a link to their notebook.
 
 The goal of this assignment was to add a button to start the countdown.
 
@@ -124,7 +125,7 @@ In the code for LEDs, I discovered that you need to set the direction as OUTPUT,
 
 
 ## LED_Servo
-Credit for this code goes to [Afton](https://github.com/Avanhoo/Engineering_4_Notebook) 
+I copied my entire coding assignment from [Afton](https://github.com/Avanhoo/Engineering_4_Notebook)  Here is a link to their notebook.
 
 The goal of this assignment was to make a servo sweep to 180 degrees at the end of the countdown.
 
@@ -149,7 +150,7 @@ This was one of the easiest assignments for me. If you want the servo to work yo
 
 
 ## Crash_Avoidance1
-Credit for this code goes to [Afton](https://github.com/Avanhoo/Engineering_4_Notebook) 
+I copied my entire coding assignment from [Afton](https://github.com/Avanhoo/Engineering_4_Notebook)  Here is a link to their notebook.
 
 The goal of this assignment was to have an accelerometer display the x, y, and z values on the serial monitor.
 ### Evidence 
@@ -170,7 +171,7 @@ To get this code to work you have to import the adafruit_mpu6050.mpy, adafruit_b
 
 
 ## Crash_Avoidance2
-Credit for this code goes to [Afton](https://github.com/Avanhoo/Engineering_4_Notebook) 
+I copied my entire coding assignment from [Afton](https://github.com/Avanhoo/Engineering_4_Notebook)  Here is a link to their notebook.
 
 The goal of his assignment was to make an LED Blink if the Pico was tilted more than 90 degrees. We also had to add a battery pack to the board so that it could be powered without the computer.
 ### Evidence 
@@ -195,7 +196,7 @@ The main problem I had was trying to figure out how to get the battery to work. 
 
 
 ## Crash_Avoidance3
-Credit for this code goes to [Afton](https://github.com/Avanhoo/Engineering_4_Notebook) 
+I copied my entire coding assignment from [Afton](https://github.com/Avanhoo/Engineering_4_Notebook)  Here is a link to their notebook.
 
 The goal of this assignment was to have an OLED that displays the x, y, and z values rounded to the nearest 3 decimal places.
 
@@ -222,7 +223,7 @@ Again, I had more problems with the wiring. I often flipped the SCL and SDA pins
 ## Area_Finder 
 
 The goal of this assignment is to have the code ask for three X and Y coordinates and for it to pop out the area. 
-Credit for this code goes to [Afton](https://github.com/Avanhoo/Engineering_4_Notebook) 
+I copied my entire coding assignment from [Afton](https://github.com/Avanhoo/Engineering_4_Notebook)  Here is a link to their notebook.
 
 
 ### Evidence 
@@ -243,7 +244,7 @@ The main trouble I had was figuring out how to do functions. With a little help 
 ## Area_Finder2 
 
  the goal of this assignment is to have an onboard OLED screen that plots each triangle on a graph relative to the base location.
-Credit for this code goes to [Afton](https://github.com/Avanhoo/Engineering_4_Notebook) 
+I copied my entire coding assignment from [Afton](https://github.com/Avanhoo/Engineering_4_Notebook)  Here is a link to their notebook.
 
 
 ### Evidence 
@@ -269,7 +270,7 @@ Again, I had trouble with wiring up the OLED screen. I figured out that the Clk 
 ## Morsecode1
 
  The goal of this assignment was to have code that translates words into morris code 
- Credit for this code goes to [Afton](https://github.com/Avanhoo/Engineering_4_Notebook) 
+I copied my entire coding assignment from [Afton](https://github.com/Avanhoo/Engineering_4_Notebook)  Here is a link to their notebook.
 
 
 ### Evidence 
@@ -291,7 +292,7 @@ I learned that the .upper() line lets the code work in upper and lowercase. The 
 ## Morsecode2
 
 The goal was to have an LED blink the message that you type in Morse code. 
-Credit for this code goes to [Afton](https://github.com/Avanhoo/Engineering_4_Notebook) 
+I copied my entire coding assignment from [Afton](https://github.com/Avanhoo/Engineering_4_Notebook)  Here is a link to their notebook.
 
 
 ### Evidence 
@@ -313,7 +314,7 @@ I had trouble putting the LED in the right direction. To fix this Afton showed m
 ## DataSaver1
 
 The goal of this assignment was to have data saved on the PICO when it is unplugged and then put the data in a file when it is plugged in. 
-Credit for this code goes to [Afton](https://github.com/Avanhoo/Engineering_4_Notebook) 
+I copied my entire coding assignment from [Afton](https://github.com/Avanhoo/Engineering_4_Notebook)  Here is a link to their notebook.
 
 
 ### Evidence 
